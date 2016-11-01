@@ -3,14 +3,12 @@
 //For ROS
 #include <ros/ros.h>
 
-//Dont know what is it
 #include <pluginlib/class_list_macros.h>
 
 //Send Velocity Message Over Network
 #include <geometry_msgs/Twist.h>
 
 //Using PointCloud ( For  3D Tracking)
-//Dont need
 #include <pcl_ros/point_cloud.h>
 #include <pcl/point_types.h>
 #include <pcl/PCLPointCloud2.h>
