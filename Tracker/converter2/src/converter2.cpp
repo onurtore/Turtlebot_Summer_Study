@@ -53,9 +53,7 @@
 
 
 
-//Not sure about all headers are necessary for pointcloud and opencv op
-//but i havent got the time for checking it, probably many of them
-//unnecessary, sorry.
+
 
 
 //Subscriber for KinectV2 RGB video channel
