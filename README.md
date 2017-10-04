@@ -1,4 +1,4 @@
-#Explanation 
+Explanation 
 
 Using Turtlebot2 (with KinectV2), for accomplishing different tasks on Ubuntu with ROS,C++
 
@@ -6,8 +6,7 @@ Using Turtlebot2 (with KinectV2), for accomplishing different tasks on Ubuntu wi
 
     Integrating Leap Motion device to control Turtlebot with Hand motion
 
-    Apply KCF algorithm to 2D Kinect data and subtract 3D Depth data for 
-Track Real Time Objects with Turtlebot.
+    Apply KCF algorithm to 2D Kinect data and subtract 3D Depth data for Track Real Time Objects with Turtlebot.
 
     Line following with IR and buffer sensors.
 
